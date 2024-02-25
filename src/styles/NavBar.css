@@ -1,0 +1,46 @@
+.horizontal-nav {
+  display: flex;
+  justify-content: center; /* Aligns items horizontally in the center */
+  align-items: center; /* Aligns items vertically in the center */
+  background-color: #2C3E50; /* Dark blue background for a modern look */
+  color: white;
+  padding: 0; /* Remove padding to allow the inner content to dictate spacing */
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -2px rgba(0,0,0,0.1); /* Adds a subtle shadow for depth */
+  height: 70px; /* Set a fixed height for your nav */
+}
+
+.horizontal-nav img {
+  height: 60px; /* Adjust logo size as necessary */
+  transition: transform 0.3s ease;
+}
+
+.horizontal-nav img:hover {
+  transform: scale(1.1);
+}
+
+.horizontal-nav ul {
+  display: flex;
+  list-style: none;
+  gap: 40px; /* Create even space between list items */
+  margin: 0; /* Override default margins */
+  padding: 0; /* Override default padding */
+}
+
+.horizontal-nav ul li {
+  font-family: 'Arial', sans-serif; /* Modern, readable font */
+  font-size: 18px;
+  font-weight: bold; /* Make the font a bit bolder */
+}
+
+.horizontal-nav ul li a {
+  text-decoration: none;
+  color: white; /* Match the text color to the nav bar */
+  padding: 10px 15px; /* Padding to increase the clickable area */
+  border-radius: 5px; /* Rounded edges for the clickable area */
+  transition: background-color 0.3s; /* Smooth transition for hover background */
+}
+
+.horizontal-nav ul li a:hover {
+  background-color: #3498DB; /* Light blue background on hover */
+  color: #ffffff;
+}

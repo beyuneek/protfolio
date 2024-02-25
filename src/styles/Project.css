@@ -1,0 +1,71 @@
+.project-background{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to right, #6DD5FA, #FF758C); /* Vibrant gradient background */
+    min-height: 100vh;
+    padding: 50px 0; /* Added padding for spacing */
+}
+
+.title{
+    color: #333; /* Dark grey for a more professional look */
+    font-size: 2.5rem; /* 250% for larger title */
+    font-weight: bold;
+    margin: 20px 0; /* Space above and below the title */
+}
+
+.title img{
+    width: 3rem; /* Fixed size */
+    height: 3rem; /* Maintain aspect ratio */
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap; /* Wrap content for responsiveness */
+    justify-content: center; /* Center content */
+    gap: 20px; /* Space between project items */
+    max-width: 1200px; /* Max width for the content area */
+    margin: 0 auto; /* Center the content area */
+}
+
+.project-list, .project-preview{
+    flex: 1;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+    margin: 10px; /* Space around each project */
+    border-radius: 8px; /* Rounded corners */
+    background: #fff; /* White background for each project card */
+}
+
+.project-preview img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Rounded corners for the images */
+}
+
+.accordion li{
+    background: #f7f7f7; /* Light grey background for the accordion items */
+    border: 1px solid #ddd; /* Border for definition */
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.accordion li label{
+    font-size: 1.5rem; /* Larger font size for labels */
+    color: #444; /* Darker color for text */
+}
+
+.accordion li label img{
+    width: 1.5rem; /* Fixed size for consistency */
+    height: 1.5rem; /* Maintain aspect ratio */
+}
+
+.accordion .content{
+    padding: 10px;
+    line-height: 1.6; /* Increased line height for readability */
+}
+
+.feature li {
+    list-style-type: disc; /* Change to disc for traditional bullet points */
+    padding-left: 15px; /* Indent feature list items */
+}
