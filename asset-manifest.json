@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/beyuneek/protfolio.git/static/css/main.5c858a8f.css",
-    "main.js": "/beyuneek/protfolio.git/static/js/main.12fc1ae5.js",
-    "static/js/453.acca0757.chunk.js": "/beyuneek/protfolio.git/static/js/453.acca0757.chunk.js",
-    "static/media/me.jpg": "/beyuneek/protfolio.git/static/media/me.566fe1fc1adcf533286e.jpg",
-    "static/media/Profile1.jpg": "/beyuneek/protfolio.git/static/media/Profile1.a3308a7dba98ea8aa30e.jpg",
-    "static/media/Credimax.png": "/beyuneek/protfolio.git/static/media/Credimax.98709d4ba7d83b007be7.png",
-    "static/media/logoPS.jpg": "/beyuneek/protfolio.git/static/media/logoPS.b160db84782da9170838.jpg",
-    "static/media/image.png": "/beyuneek/protfolio.git/static/media/image.9af95b8a9b0eb0e15814.png",
-    "static/media/FlightReservation.jpeg": "/beyuneek/protfolio.git/static/media/FlightReservation.d6c859543b8e65fa9cea.jpeg",
-    "static/media/bikeTheft.png": "/beyuneek/protfolio.git/static/media/bikeTheft.1cf77f9a4edcb699b996.png",
-    "static/media/Game.png": "/beyuneek/protfolio.git/static/media/Game.6565f1e8c512ac3b8f44.png",
-    "index.html": "/beyuneek/protfolio.git/index.html",
-    "main.5c858a8f.css.map": "/beyuneek/protfolio.git/static/css/main.5c858a8f.css.map",
-    "main.12fc1ae5.js.map": "/beyuneek/protfolio.git/static/js/main.12fc1ae5.js.map",
-    "453.acca0757.chunk.js.map": "/beyuneek/protfolio.git/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/protfolio/static/css/main.4256ac07.css",
+    "main.js": "/protfolio/static/js/main.d0f3ee1a.js",
+    "static/js/453.acca0757.chunk.js": "/protfolio/static/js/453.acca0757.chunk.js",
+    "static/media/me.jpg": "/protfolio/static/media/me.566fe1fc1adcf533286e.jpg",
+    "static/media/Profile1.jpg": "/protfolio/static/media/Profile1.a3308a7dba98ea8aa30e.jpg",
+    "static/media/Credimax.png": "/protfolio/static/media/Credimax.98709d4ba7d83b007be7.png",
+    "static/media/logoPS.jpg": "/protfolio/static/media/logoPS.b160db84782da9170838.jpg",
+    "static/media/image.png": "/protfolio/static/media/image.9af95b8a9b0eb0e15814.png",
+    "static/media/FlightReservation.jpeg": "/protfolio/static/media/FlightReservation.d6c859543b8e65fa9cea.jpeg",
+    "static/media/bikeTheft.png": "/protfolio/static/media/bikeTheft.1cf77f9a4edcb699b996.png",
+    "static/media/Game.png": "/protfolio/static/media/Game.6565f1e8c512ac3b8f44.png",
+    "index.html": "/protfolio/index.html",
+    "main.4256ac07.css.map": "/protfolio/static/css/main.4256ac07.css.map",
+    "main.d0f3ee1a.js.map": "/protfolio/static/js/main.d0f3ee1a.js.map",
+    "453.acca0757.chunk.js.map": "/protfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c858a8f.css",
-    "static/js/main.12fc1ae5.js"
+    "static/css/main.4256ac07.css",
+    "static/js/main.d0f3ee1a.js"
   ]
 }
